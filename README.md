@@ -11,3 +11,7 @@ Screenshot:
 - rofi-power-menu
 - oh-my-zsh
 - Dracula theme for oh-my-zsh
+- Fonts:
+  - Noto Sans
+  - Font Awesome 5
+  - IPA Gothic
